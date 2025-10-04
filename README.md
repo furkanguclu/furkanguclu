@@ -1,16 +1,32 @@
-## Hi there 👋
+# Furkan Güçlü
 
-<!--
-**furkanguclu/furkanguclu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hakkımda
+Yazılım geliştirmeyi hobi olarak yapan biriyim 💻  
+C++, C# ve Python ile kendi projelerimi geliştiriyorum.  
+Yeni teknolojiler denemeyi, sistemlerin nasıl çalıştığını öğrenmeyi ve kendi araçlarımı oluşturmayı severim ⚡
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## İlgi Alanlarım
+- C++, C#, Python   
+- MySQL, SQLite 🗄️  
+- Temel algoritmalar, otomasyon ve dosya işlemleri 🤖
+
+---
+
+## Projeler
+[C/C++ Type Normalizer](https://github.com/furkanguclu/cpp-type-normalizer) – C++ tiplerini normalize eden bir araç 📝
+
+---
+
+## Kullandığım Uygulamalar
+- Git, GitHub   
+- Visual Studio, VS Code  
+- Navicat, PuTTY, WinSCP, WinMerge, Meld
+
+---
+
+## İletişim 
+E-posta: furkan.guclubgs@gmail.com ✉️
+Web:[furkanguclu.com](https://furkanguclu.com)
+GitHub:[github.com/furkanguclu](https://github.com/furkanguclu)
